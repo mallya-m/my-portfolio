@@ -28,7 +28,7 @@ Figma (for UI/UX design)
 **Live Preview**
 
 Hosted using GitHub Pages:
-(Add your link after deployment)
+https://mallya-m.github.io/personal-portfolio/
 
 _**Contact**_
 
